@@ -8,7 +8,7 @@ Este proyecto proporciona una implementación sencilla de ventanas modales en un
 
 ## Caracteristicas
 
-- **Apertura de Modal:** Cada botón en la página abre su propio modal correspondiente.- Ejemplos de middleware a nivel de ruta y de aplicación.
+- **Apertura de Modal:** Cada botón en la página abre su propio modal correspondiente.
 
 - **Cierre de Modal:**
   - Haciendo clic en el botón de cierre (ícono &times;).
